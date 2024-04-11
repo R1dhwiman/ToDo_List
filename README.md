@@ -1,5 +1,6 @@
 #ToDo List App README
-HOSTED LINK:   
+
+HOSTED LINK:   https://r1dhwiman.github.io/ToDo_List/
 
 Welcome to our ToDo List App! This simple yet powerful application helps you organize your tasks efficiently, ensuring you stay on top of your daily activities. Developed using HTML, CSS, and JavaScript, this ToDo List App provides a seamless user experience with intuitive design and smooth functionality.
 
