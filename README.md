@@ -16,7 +16,7 @@ Usage
 3.  Start adding your tasks using the input field provided.
 4.  Mark tasks as completed or delete them as needed.
 5.  Use the filter options to view specific subsets of your tasks.
-6.  
+ 
 Technologies Used
 1.  HTML: Used for structuring the content of the web page.
 2.  CSS: Utilized for styling the elements and providing visual appeal.
